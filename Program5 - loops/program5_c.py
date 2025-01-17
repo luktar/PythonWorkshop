@@ -7,7 +7,7 @@ sum_of_numbers = 0  # Zmienna przechowująca sumę
 number = 1          # Pierwsza liczba do sumowania
 
 # Pętla while sumująca liczby od 1 do 5
-while number <= 5:
+while number <= 5: # Pętla działa tak długo dopóki warunek jest prawdziwy (True)
     sum_of_numbers += number  # Dodanie liczby do sumy
     number += 1               # Przejście do następnej liczby
 
